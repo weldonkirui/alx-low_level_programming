@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *argstostr - convert arguments on command line to strings
+ * argstostr - convert arguments on command line to strings
  * @ac: int type
  * @av: pointer to array
  * Return: arguments as strings
