@@ -19,6 +19,7 @@ int _strlen(char *s)
 	}
 	return (a);
 }
+
 /**
  * _strcpy - function to copy string from source to destination
  *@dest: pointer to destinatioin of string to be copied
@@ -37,8 +38,9 @@ char *_strcpy(char *dest, char *src)
 	dest[a] = '\0';
 	return (dest);
 }
+
 /**
- * *new_dog - function to create new dog struct
+ * new_dog - function to create new dog struct
  * @name: char type
  * @age: float type
  * @owner: char type
