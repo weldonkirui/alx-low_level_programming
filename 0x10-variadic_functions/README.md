@@ -1,0 +1,3 @@
+# THIS PROJECT IS ABOUT VARIADIC FUNCTIONS
+
+## 0x10. C - Variadic functions
