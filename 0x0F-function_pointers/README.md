@@ -1,0 +1,3 @@
+# THIS PROJECT IS ABOUT FUNCTIONS AND POINTERS
+
+## 0x0F. C - Function pointers
